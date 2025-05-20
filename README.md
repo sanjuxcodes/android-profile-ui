@@ -4,7 +4,7 @@ An Android Profile screen built using Java & XML, inspired by the CRED app.
 
 ## 📱 Screenshot
 
-![Profile Screenshot](screenshots/profile_ui.jpg)
+![Profile Screenshot](screenshots/profile_ui.png)
 
 ## 📌 Features
 - Profile Image
